@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{F1671DC7-CFF2-42D5-AD07-35D6D734C011}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DogReviewApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adaora/Desktop/GeorgiaTech/CodingProjects/Internship/APIs/DogReviewApp/DogReviewApp/Models/Country.cs" relfile="Models/Country.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="appsettings.Development.json" Line="8" Column="28" />
+      <File FileName="Models/Country.cs" Line="14" Column="41" />
+      <File FileName="appsettings.json" Line="2" Column="3" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="20" Column="40" />
+      <File FileName="Models/Category.cs" Line="2" Column="23" />
+      <File FileName="Models/DogCategory.cs" Line="1" Column="1" />
+      <File FileName="Models/DogOwner.cs" Line="10" Column="27" />
+      <File FileName="Models/Owners.cs" Line="16" Column="1" />
+      <File FileName="DesignTimeDBContextFactory.cds" Line="23" Column="4" />
+      <File FileName="Program.cs" Line="31" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DogReviewApp" expanded="True">
+            <Node name="DogReviewApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
