@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DogReviewApp",
+    "\\DogReviewApp\\bin",
+    "\\DogReviewApp\\bin\\Debug",
+    "\\DogReviewApp\\bin\\Debug\\net7.0",
+    "\\DogReviewApp\\bin\\Debug\\net7.0\\runtimes",
+    "\\DogReviewApp\\Models",
+    "\\DogReviewApp\\obj",
+    "\\DogReviewApp\\Properties",
+    "\\obj"
+  ],
+  "SelectedNode": "\\DogReviewApp\\Properties",
+  "PreviewInSolutionExplorer": false
+}

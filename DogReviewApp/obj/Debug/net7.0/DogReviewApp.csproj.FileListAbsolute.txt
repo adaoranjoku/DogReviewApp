@@ -145,3 +145,13 @@
 /Users/adaora/Desktop/GeorgiaTech/CodingProjects/Internship/APIs/DogReviewApp/DogReviewApp/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
 /Users/adaora/Desktop/GeorgiaTech/CodingProjects/Internship/APIs/DogReviewApp/DogReviewApp/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/adaora/Desktop/GeorgiaTech/CodingProjects/Internship/APIs/DogReviewApp/DogReviewApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\DogReviewApp.csproj.AssemblyReference.cache
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\DogReviewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\DogReviewApp.AssemblyInfoInputs.cache
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\DogReviewApp.AssemblyInfo.cs
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\DogReviewApp.csproj.CoreCompileInputs.cache
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\DogReviewApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\DogReviewApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\DogReviewApp.dll
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\refint\DogReviewApp.dll
+C:\Users\EMEKA\source\repos\adaoranjoku\DogReviewApp\DogReviewApp\obj\Debug\net7.0\DogReviewApp.pdb

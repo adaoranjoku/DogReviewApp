@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Models",
+      "appliesTo": "DogReviewApp/Models/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-native",
+      "appliesTo": "DogReviewApp/bin/Debug/net7.0/runtimes/win-x86/native/",
+      "type": "launch"
+    }
+  ]
+}
