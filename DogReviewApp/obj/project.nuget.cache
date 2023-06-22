@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IaLwsIudUImVK1dy6g1H2SUCkWWE4+IyGlkEWOM3PQ6tKaigWFc0L/Q+YbPB3xgU5qgRgXtjSfPOpNBJCovwLg==",
+  "dgSpecHash": "emy5iGtmoBpm9ngOcXWMDq55CfM5PQLC+4A1XlDJKf/v47Zul156Q2tBsKgJ+vEOfexqhHdD98P+BR40Vy75Mg==",
   "success": true,
   "projectFilePath": "C:\\Users\\EMEKA\\source\\repos\\adaoranjoku\\DogReviewApp\\DogReviewApp\\DogReviewApp.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,8 @@
     "C:\\Users\\EMEKA\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
     "C:\\Users\\EMEKA\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.5\\microsoft.entityframeworkcore.design.7.0.5.nupkg.sha512",
     "C:\\Users\\EMEKA\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
+    "C:\\Users\\EMEKA\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.5\\microsoft.entityframeworkcore.sqlserver.7.0.5.nupkg.sha512",
+    "C:\\Users\\EMEKA\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.5\\microsoft.entityframeworkcore.tools.7.0.5.nupkg.sha512",
     "C:\\Users\\EMEKA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\EMEKA\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\EMEKA\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

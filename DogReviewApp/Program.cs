@@ -32,26 +32,26 @@ app.MapControllers();
 
 app.Run();
 
-public void DatabaseConfigure(IServiceCollection services)
-{
-    services.AddDbContext<ApplicationDbContext>(b =>
-    {
-        b.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
-    });
+//public void DatabaseConfigure(IServiceCollection services)
+//{
+//    services.AddDbContext<ApplicationDbContext>(b =>
+//    {
+//        b.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+//    });
 
 
 
-    services.AddHangfire(x => x.UseSqlServerStorage(Configuration.GetConnectionString("DefaultConnection")));
+//    services.AddHangfire(x => x.UseSqlServerStorage(Configuration.GetConnectionString("DefaultConnection")));
 
 
 
-    services.AddHangfireServer();
+//    services.AddHangfireServer();
 
 
-    services.AddIdentityCore<ApplicationUser>(options => { });
-    new IdentityBuilder(typeof(ApplicationUser), typeof(ApplicationRole), services)
-        .AddRoleManager<RoleManager<ApplicationRole>>().AddUserManager<UserManager<ApplicationUser>>()
-        .AddSignInManager<SignInManager<ApplicationUser>>()
-        .AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+//    services.AddIdentityCore<ApplicationUser>(options => { });
+//    new IdentityBuilder(typeof(ApplicationUser), typeof(ApplicationRole), services)
+//        .AddRoleManager<RoleManager<ApplicationRole>>().AddUserManager<UserManager<ApplicationUser>>()
+//        .AddSignInManager<SignInManager<ApplicationUser>>()
+//        .AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
 
-}
+//}
